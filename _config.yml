@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Li"
+  name             : "Yang Li(Post Doc Fellow)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "University of Michigan"
   location         : "Michigan, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=npqv4VIAAAAJ"
   email            : "yangli-evo@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
