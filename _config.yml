@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=npqv4VIAAAAJ"
   email            : "yangli-evo@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Li-Yang-400"
+  researchgate     : #"https://www.researchgate.net/profile/Li-Yang-400"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yangli-evo"
+  github           : #"yangli-evo"
   google_plus      :
   keybase          :
   instagram        :
