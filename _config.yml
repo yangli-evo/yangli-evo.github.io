@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Li"
-description              : "Research scientist in Computational biology, Genome evolution. Focusing on Horizontal gene transfer, Fitness landscape"
+description              : "Research interest in Computational biology, Genome evolution. Focusing on Horizontal gene transfer, Fitness landscape"
 repository               : "yangli-evo/yangli-evo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Li(Post Doc Fellow)"
+  name             : "Yang Li (Post Doc)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "University of Michigan"
   location         : "Michigan, USA"
