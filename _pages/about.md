@@ -30,7 +30,7 @@ My broader interests include:
 
 # 📝 Publications 
 
-
+#########P
 <div class='paper-box'><div class='paper-box-image'><img src='images/P_xu.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,6 +40,7 @@ My broader interests include:
 - Knockdown of rotund reverses long wings into intermediate wings.
 - Binding to the TF FoxO inhibits the rotund activity.
 
+#########P
 <div class='paper-box'><div class='paper-box-image'><img src='images/P-Env.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,60 +50,16 @@ My broader interests include:
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
 - Although genomic data has revealed many HGT events in insects, the full extent of its influence and the mechanisms behind it remain unclear.
 
+#########P
 <div class='paper-box'><div class='paper-box-image'><img src='images/P-Env.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environ Microbiol** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
+[BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](https://doi.org/10.1111/1462-2920.16311), **Developmental & Comparative Immunology** 2023 **Yang Li** Jianjia Zhang Xing-Xing Shen
 
 - Insects are incredibly diverse and essential to ecosystems.
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
 - Although genomic data has revealed many HGT events in insects, the full extent of its influence and the mechanisms behind it remain unclear.
 
-
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-**ICLR 2021** \| [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - FastSpeech 2 addresses the issues in FastSpeech and better solves the one-to-many mapping problem in TTS by introducing more variation information of speech as conditional inputs. 
-  - We further design FastSpeech 2s, which is the first attempt to generate speech waveform from text in parallel directly.
-  - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/portaspeech.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), **Yi Ren**, Jinglin Liu, Zhou Zhao
-
-**NeurIPS 2021** \| [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-- We propose PortaSpeech, a portable and high-quality generative text-to-speech model.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/diffsinger.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-**AAAI 2022** \| [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-
-- We propose DiffSinger, an acoustic model for SVS based on the diffusion probabilistic model. 
-</div>
-</div>
-
-
-
-- [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, Ming Lei, Zhiying Huang,  Shiliang Zhang, Qian Chen, Zhijie Yan, Zhou Zhao, **ICASSP 2022**
-- [EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model](https://arxiv.org/abs/2106.09317), Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao, **INTERSPEECH 2021**
-- [WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution](https://arxiv.org/abs/2106.08507), Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao, **INTERSPEECH 2021** <span style="color:red">(best student paper award candidate)</span>
-- [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, Jinglin Liu, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu, **ICASSP 2021** \| [**Project**](https://speechresearch.github.io/denoispeech/)
-- [Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus](https://arxiv.org/pdf/2112.10358), Rongjie Huang, Feiyang Chen, **Yi Ren**, Jinglin Liu, Chenye Cui, Zhou Zhao, **ACM-MM 2021** <span style="color:red">(Oral)</span>
-- [FedSpeech: Federated Text-to-Speech with Continual Learning](https://www.ijcai.org/proceedings/2021/527), Ziyue Jiang, **Yi Ren**, Ming Lei and Zhou Zhao, **IJCAI 2021**
-- [DeepSinger: Singing Voice Synthesis with Data Mined From the Web](https://dl.acm.org/doi/abs/10.1145/3394486.3403249), **Yi Ren**, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu, **KDD 2020** \| [**Project**](https://speechresearch.github.io/deepsinger/)
-- [LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition](https://dl.acm.org/doi/abs/10.1145/3394486.3403331), Jin Xu, Xu Tan, **Yi Ren**, Tao Qin, Jian Li, Sheng Zhao, Tie-Yan Liu, **KDD 2020** \| [**Project**](https://speechresearch.github.io/lrspeech/)
-- [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin, **INTERSPEECH 2020** \| [**Project**](https://speechresearch.github.io/multispeech/)
-- [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, **ICML 2019** <span style="color:red">(Oral)</span> \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
 ## 👄 Lip Generation/Understanding
 - [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao, **AAAI 2022**
