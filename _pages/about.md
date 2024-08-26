@@ -49,6 +49,16 @@ My broader interests include:
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
 - Although genomic data has revealed many HGT events in insects, the full extent of its influence and the mechanisms behind it remain unclear.
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/P-Env.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environ Microbiol** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
+
+- Insects are incredibly diverse and essential to ecosystems.
+- Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
+- Although genomic data has revealed many HGT events in insects, the full extent of its influence and the mechanisms behind it remain unclear.
+
+
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
 **ICLR 2021** \| [**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
