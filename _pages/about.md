@@ -20,21 +20,21 @@ My broader interests include:
 
 
 # 🔥 News
-- *July 2024*:Attended the SMBE meeting in Mexico and gave a presentation.
-- *August 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
-- *July 2023*: Graduated as an Outstanding PhD Student.
+- *Sep 2024*: Awarded the UMPDA Travel Award
+- *July 2024*: Attended the SMBE meeting in Mexico and gave a presentation.
+- *Aug 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
+- *July 2023*: Graduated as one of the Outstanding Graduates of Zhejiang Province (Top 1%).
 - *July 2022*: &nbsp;🎉🎉New paper in **[Cell](https://doi.org/10.1016/j.cell.2022.06.014)** on widespread horizontal gene transfer (HGT) in insects!
 - *June 2022*: Awarded the Zhejiang University Excellent PhD Research Fellowship!
 
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/fs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/P_xu.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf), **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), Sun-jie Chen ec tl**Yang Li**, Haijun Xu
 
 **NeurIPS 2019** \| [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
