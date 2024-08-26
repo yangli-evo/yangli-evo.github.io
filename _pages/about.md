@@ -34,19 +34,20 @@ My broader interests include:
 <div class='paper-box'><div class='paper-box-image'><img src='images/P_xu.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), Sun-jie Chen ec tl**Yang Li**, Haijun Xu
+[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
 
-**NeurIPS 2019** \| [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+- Rotund is differentially expressed between long-winged and short-winged BPHs.
+- Knockdown of rotund reverses long wings into intermediate wings.
+- Binding to the TF FoxO inhibits the rotund activity.
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/fs2.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/P-Env.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
+
+[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environ Microbiol** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
+
+- Insects are incredibly diverse and essential to ecosystems.
+- Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
+- Although genomic data has revealed many HGT events in insects, the full extent of its influence and the mechanisms behind it remain unclear.
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
 
