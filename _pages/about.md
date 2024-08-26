@@ -11,14 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a [Postdoctoral Fellow](https://prod.lsa.umich.edu/eeb/people/postdoctoral-fellows/yang-li.html) at the University of Michigan. I am working with [Pro. Zhang](https://websites.umich.edu/~zhanglab/Research.html) to study Evolutionary Biology
-I was graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院). Currently I am a second year master's student in the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Zhao Zhou (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely. 
 
-I won the [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 candidates worldwide each year) and ByteDance Scholars Program (10 candidates worldwide each year) in 2020 and was selected as one of [the top 100 AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) and AI Chinese New Star Outstanding Scholar (10 candidates worldwide each year). 
-
-My research interest includes speech synthesis, neural machine translation and automatic music generation.I have published more than 20 papers at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD with total <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>. 
-
-To promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the [MLNLP community](https://space.bilibili.com/168887299) in 2021. I am honored to be one of the chairs of the MLNLP committee.
-
+My topic of interest is using computational biology methods to explore the mechanisms and processes of biological evolution. This includes utilizing large-scale genome data analysis, modeling, and simulations to gain a deeper understanding of how organisms adapt and evolve in different environments. Focusing on genome evolution, the tree of life, phylogenetics, [horizontal gene transfer (HGT)](https://doi.org/10.1016/j.cell.2022.06.014), and fitness landscape.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 1000!
@@ -112,20 +106,20 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 
 
 # 🎖 Honors and Awards
-- *2023.7* Outstanding Graduates of Zhejiang Province (Top 1%)
-- *2023.7* Outstanding Graduates of Zhejiang University (Top 5%)
-- *2022.12* [Chu Kochen Scholarship](https://baijiahao.baidu.com/s?id=1749110967329948808) (12 graduated students in the Zhejiang University each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* ByteDance Scholars Program (10 students in China each year)
+- *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
+- *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
+- *Nov 2022* [Chu Kochen Scholarship](https://baijiahao.baidu.com/s?id=1749110967329948808) (12 graduated students in the Zhejiang University each year)
+- *Oct 2022* National Scholarship (Graduate) (Top 1%)
+- *June 2022* Zhejiang University Excellent PhD Research Fellowship (Top 1%)
+
 - *2020.10* Tianzhou Chen Scholarship (Top 1%)
 - *2020.10* National Scholarship (Top 1%)
 - *2015.10* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, PhD, Zhejiang Univeristy, Hangzhou.
-- *2019.06 - 2022.06*, PhD, Zhejiang Univeristy, Hangzhou.
-- *2014.09 - 2018.06*, Undergraduate, Wuhan Polytechnic University, Wuhan.
+- *Aug 2019 -  (now)*, Postdoctoral, Univeristy of Michigan, Michigan.
+- *Sep 2018 - June 2022*, PhD, Zhejiang Univeristy, Hangzhou.
+- *Sep 2014 - June 2018*, Undergraduate, Wuhan Polytechnic University, Wuhan.
 
 # 💬 Invited Talks
 - *2021.06*, Audio & Speech Synthesis, Huawei internal talk
@@ -133,8 +127,3 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
