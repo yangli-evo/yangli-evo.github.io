@@ -10,17 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a [Postdoctoral Fellow](https://prod.lsa.umich.edu/eeb/people/postdoctoral-fellows/yang-li.html) at the University of Michigan. I am working with [Pro. Zhang](https://websites.umich.edu/~zhanglab/Research.html) to study Evolutionary Biology. My topic of interest is using computational biology methods to explore the mechanisms and processes of biological evolution. This includes utilizing large-scale genome data analysis, modeling, and simulations to gain a deeper understanding of how organisms adapt and evolve in different environments. Focusing on genome evolution, the tree of life, phylogenetics, [horizontal gene transfer (HGT)](https://doi.org/10.1016/j.cell.2022.06.014), and fitness landscape.
+I am a [Postdoctoral Fellow](https://prod.lsa.umich.edu/eeb/people/postdoctoral-fellows/yang-li.html) at the University of Michigan. I am working with [Pro. Zhang](https://websites.umich.edu/~zhanglab/Research.html) to explore the mechanisms and processes underlying biological evolution using computational biology.
 
-**Exploring Evolutionary Mechanisms through Computational Biology**  
-My research interests revolve around using computational biology methods to explore the mechanisms and processes underlying biological evolution.
+My broader interests include:
+- **Genome Evolution and Phylogenetics**: Using large-scale genome data to explore molecular evolutionary relationships among species, phylogenetics, genome rearrangements, and genome duplications, and understanding how these factors influence species diversity and adaptation.
+- **Fitness Landscapes**: Analyzing fitness landscapes to understand landscape navigability, high peaks accessibility, and evolutionary trajectories. This includes studying adaptive walks, epistasis, and how these factors influence the exploration of fitness landscapes and the achievement of high-fitness peaks.
+- **[Horizontal Gene Transfer](https://doi.org/10.1016/j.cell.2022.06.014)**: Investigating how foreign genes enter and integrate into species' genomes, adapt within them, and shape the tree of life. This includes studying the mechanisms of gene acquisition, the impact on genomic diversity, and how these transfers influence evolutionary processes and phylogenetic relationships.
 
-**Genome Data Analysis, Modeling, and Simulations**  
-This includes leveraging large-scale genome data analysis, modeling, and simulations to investigate how organisms adapt and evolve across different environments.
-
-**Key Focus Areas**  
-- **Evolutionary Relationships and Genetic Diversity**: Studying the evolution of genomes over time, including the evolutionary relationships between species through the tree of life and phylogenetics, and investigating how horizontal gene transfer contributes to genetic diversity and influences evolutionary processes.
-- **Fitness Landscapes**: Analyzing fitness landscapes to understand the accessibility of high-fitness peaks and evolutionary dynamics.
 
 
 # 🔥 News
