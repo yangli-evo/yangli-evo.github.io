@@ -20,8 +20,11 @@ My broader interests include:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 My [google scholar](https://scholar.google.com/citations?user=4FA6C0AAAAAJ) citations have exceeded 1000!
-- *2022.02*: We public a Non-Autoregressive Text-to-Speech (NAR-TTS) framework [NATSpeech ![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social)](https://github.com/NATSpeech/NATSpeech), including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022). 🎉🎉 It was shown on the [Github Daily Trending List](https://github.motakasoft.com/trending/?d=2022-02-19&l=all) on 19 Feb 2022!
+- *July 2024*:Attended the SMBE meeting in Mexico and gave a presentation.
+- *August 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
+- *July 2023*: Graduated as an Outstanding PhD Student.
+- *July 2022*: &nbsp;🎉🎉New paper in **[Cell](https://doi.org/10.1016/j.cell.2022.06.014)** on widespread horizontal gene transfer (HGT) in insects!
+- *June 2022*: Awarded the Zhejiang University Excellent PhD Research Fellowship!
 
 
 # 📝 Publications 
