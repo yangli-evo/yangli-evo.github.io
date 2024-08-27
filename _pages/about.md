@@ -65,7 +65,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/DCI.png' alt="sym" width="60%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/DCI.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](https://doi.org/10.1016/j.dci.2021.104036) **Developmental & Comparative Immunology** 2023 **Yang Li** ec tl Xiaofeng Wu
@@ -77,7 +77,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="60%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](https://doi.org/10.1016/j.virusres.2020.198145) **Virus Research** 2023 **Yang Li** ec tl Xiaofeng Wu
