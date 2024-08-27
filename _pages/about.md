@@ -42,7 +42,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="60%"></div>
+<div class='paper-box'> <div class='paper-box-video'> <video width="392" height="221" controls> <source src="images/Cell_video.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div> <div class='paper-box-text' markdown="1">
 <div class='paper-box-text' markdown="1">
 
 [How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311) **Environmental Microbiology** 2023 Chao Liu, **Yang Li** ec tl Xing-Xing Shen
@@ -53,7 +53,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box'><p style="margin-left;margin-bottom: 2px;margin-top: 2px"><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="360" height="300" controls autoplay loop muted><source src="images/Cell_video.mp4" type="video/mp4"></div>
+<div class='paper-box'><p style="margin-left;margin-bottom: 2px;margin-top: 2px"><video width="350" height="300" controls autoplay loop muted><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
 [HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li** et al. Xing-Xing Shen
 
