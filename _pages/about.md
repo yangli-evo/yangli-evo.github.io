@@ -55,7 +55,7 @@ My broader interests include:
 
 <div class='paper-box'>
     <div class='paper-box-video'>
-        <video width="560" height="315" controls>
+        <video width="200" height="200" controls>
             <source src="images/Cell_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
