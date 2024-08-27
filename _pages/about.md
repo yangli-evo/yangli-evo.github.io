@@ -93,7 +93,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](https://doi.org/10.1016/j.virol.2020.10.001) **Virology** 2021 Xiangshuo Kong ec tl **Yang Li**, Xiaofeng Wu
+[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](https://doi.org/10.1016/j.virol.2020.10.001) **Virology** 2020 Xiangshuo Kong ec tl **Yang Li**, Xiaofeng Wu
 
 - BmNPV infection induces cell detachment and morphological changes.
 - *Bm14* is a viral factor involved in BmNPV infection induced CPEs.
@@ -105,7 +105,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology2.png' alt="sym" width="82%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](https://doi.org/10.1016/j.virol.2020.06.015) **Virology** 2022 Jianjia Zhang, **Yang Li** et cl Xiaofeng Wu
+[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](https://doi.org/10.1016/j.virol.2020.06.015) **Virology** 2020 Jianjia Zhang, **Yang Li** et cl Xiaofeng Wu
 
 - Nuclear actin polymerization is crucial for the assembly of baculovirus nucleocapsid, but the virus-mediated mechanism remains unclear.
 - VP39, the major protein in the baculovirus capsid, interacts with cellular actin and mediates actin polymerization. Its role in nuclear actin polymerization was previously uncertain.
