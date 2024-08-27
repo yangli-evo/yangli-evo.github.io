@@ -31,7 +31,7 @@ My broader interests include:
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/P_xu.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/P_xu.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
