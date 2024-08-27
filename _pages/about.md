@@ -34,7 +34,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
+[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182) **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
 
 - *Rotund* is differentially expressed between long-winged and short-winged BPHs.
 - Knockdown of rotund reverses long wings into intermediate wings.
@@ -45,7 +45,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
-[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environmental Microbiology** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
+[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311) **Environmental Microbiology** 2023 Chao Liu, **Yang Li** ec tl Xing-Xing Shen
 
 - Insects are incredibly diverse and essential to ecosystems.
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
@@ -55,7 +55,7 @@ My broader interests include:
 
 <div class='paper-box'>
     <div class='paper-box-video'>
-        <video width="200" height="200" controls>
+        <video width="300" height="300" controls>
             <source src="images/Cell_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -65,7 +65,7 @@ My broader interests include:
 </div>
 <div class='paper-box-text' markdown="1">
 
-[HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311), **Cell** 2022 **Yang Li** ec tl Xing-Xing Shen
+[HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li** ec tl Xing-Xing Shen
 
 - Genome-scale screening of HGT in 218 insect genomes.
 - Intron gains from native insect genomes were likely involved in HGT adaptation.
