@@ -54,7 +54,7 @@ My broader interests include:
 </div>
 
 <div style="text-align: center;">
-    <video height="300" width="320" controls autoplay muted>
+    <video height="300" width="250" controls autoplay muted>
         <source src="images/Cell_video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
