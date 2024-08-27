@@ -53,7 +53,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="400" height="350" controls autoplay loop muted="border: none;"><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
+<div class='paper-box'><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="380" height="320" controls autoplay loop muted="border: none;"><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
   
 [HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li** ec tl Xing-Xing Shen
