@@ -62,7 +62,6 @@ My broader interests include:
 - Intron gains from native insect genomes were likely involved in HGT adaptation.
 - Lepidopterans acquired, on average, the highest number of HGT-acquired genes.
 - HGT-acquired gene enhances male courtship behavior in lepidopterans.
-
 </div>
 </div>
 
