@@ -113,6 +113,18 @@ My broader interests include:
 </div>
 </div>
 
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/Plos.png' alt="sym" width="80%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](https://doi.org/10.1371/journal.ppat.1008633) **Plos Pathogens** 2020 Xiangshuo Kong et cl **Yang Li**, Xiaofeng Wu
+
+- The study examines how Bombyx mori nucleopolyhedrovirus (BmNPV) infection impacts host chromatin architecture.
+- BmNPV infection leads to progressive chromatin remodeling, resulting in a more open chromatin structure and the marginalization of the host genome, accompanied by nucleosome disassembly.
+- In uninfected cells, chromatin accessibility is regulated by euchromatic modifications, whereas BmNPV infection induces accessible regions associated with facultative heterochromatic modifications.
+- The findings provide new insights into how DNA viruses alter host chromatin organization and epigenomic regulation.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
