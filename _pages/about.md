@@ -55,7 +55,7 @@ My broader interests include:
 
 <p style="margin-left;margin-bottom: 2px;margin-top: 2px"><div class='paper-box'>
     <div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;">
-        <video width="300" height="400" controls autoplay loop muted>
+        <video width="200" height="300" controls autoplay loop muted>
             <source src="images/Cell_video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
