@@ -36,7 +36,7 @@ My broader interests include:
 
 [FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182), **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
 
-- Rotund is differentially expressed between long-winged and short-winged BPHs.
+- *Rotund* is differentially expressed between long-winged and short-winged BPHs.
 - Knockdown of rotund reverses long wings into intermediate wings.
 - Binding to the TF FoxO inhibits the rotund activity.
 </div>
@@ -45,7 +45,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
-[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environ Microbiol** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
+[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311), **Environmental Microbiology** 2023 Chao Liu **Yang Li**ec tl  Xing-Xing Shen
 
 - Insects are incredibly diverse and essential to ecosystems.
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
