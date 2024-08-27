@@ -35,7 +35,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="65%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](https://doi.org/10.1016/j.isci.2023.107182) **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
+[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](pdf/Iscience.pdf) **iScience** 2023 Sun-jie Chen ec tl **Yang Li**, Haijun Xu
 
 - *Rotund* is differentially expressed between long-winged and short-winged BPHs.
 - Knockdown of rotund reverses long wings into intermediate wings.
