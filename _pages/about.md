@@ -16,7 +16,7 @@ I am a [Postdoctoral Fellow](https://prod.lsa.umich.edu/eeb/people/postdoctoral-
 My broader interests include:
 - **Genome Evolution and Phylogenetics**: Using large-scale genome data to explore molecular evolutionary relationships among species, phylogenetics, genome rearrangements, and genome duplications, and understanding how these factors influence species diversity and adaptation.
 - **Fitness Landscapes**: Analyzing fitness landscapes to understand landscape navigability, high peaks accessibility, and evolutionary trajectories. This includes studying adaptive walks, epistasis, and how these factors influence the exploration of fitness landscapes and the achievement of high-fitness peaks.
-- **[Horizontal Gene Transfer](https://doi.org/10.1016/j.cell.2022.06.014)**: Investigating how foreign genes enter and integrate into species' genomes, adapt within them, and shape the tree of life. This includes studying the mechanisms of gene acquisition, the impact on genomic diversity, and how these transfers influence evolutionary processes and phylogenetic relationships.
+- **[Horizontal Gene Transfer](pdf/Cell2022.pdf)**: Investigating how foreign genes enter and integrate into species' genomes, adapt within them, and shape the tree of life. This includes studying the mechanisms of gene acquisition, the impact on genomic diversity, and how these transfers influence evolutionary processes and phylogenetic relationships.
 
 
 
@@ -25,7 +25,7 @@ My broader interests include:
 - *July 2024*: Attended the SMBE meeting in Mexico and gave a presentation.
 - *Aug 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
 - *July 2023*: Graduated as one of the Outstanding Graduates of Zhejiang Province (Top 1%).
-- *July 2022*: &nbsp;🎉🎉New paper in **[Cell](https://doi.org/10.1016/j.cell.2022.06.014)** on widespread horizontal gene transfer (HGT) in insects!
+- *July 2022*: &nbsp;🎉🎉New paper in **[Cell](pdf/Cell2022.pdf)** on widespread horizontal gene transfer (HGT) in insects!
 - *June 2022*: Awarded the Zhejiang University Excellent PhD Research Fellowship!
 
 
@@ -81,7 +81,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](https://doi.org/10.1016/j.virusres.2020.198145) **Virus Research** 2020 **Yang Li** ec tl Xiaofeng Wu
+[Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](pdf/VR.pdf) **Virus Research** 2020 **Yang Li** ec tl Xiaofeng Wu
 
 - *Bm46* is not a core gene in baculovirus, but plays a pivotal role during the late infection.
 - The deletion of Bm46 resulted in a decreased BV production but did not affect viral DNA replication.
@@ -93,7 +93,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](https://doi.org/10.1016/j.virol.2020.10.001) **Virology** 2020 Xiangshuo Kong ec tl **Yang Li**, Xiaofeng Wu
+[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](pdf/Virology1.pdf) **Virology** 2020 Xiangshuo Kong ec tl **Yang Li**, Xiaofeng Wu
 
 - BmNPV infection induces cell detachment and morphological changes.
 - *Bm14* is a viral factor involved in BmNPV infection induced CPEs.
@@ -105,7 +105,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology2.png' alt="sym" width="82%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](https://doi.org/10.1016/j.virol.2020.06.015) **Virology** 2020 Jianjia Zhang, **Yang Li** et cl Xiaofeng Wu
+[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](pdf/Virology2.pdf) **Virology** 2020 Jianjia Zhang, **Yang Li** et cl Xiaofeng Wu
 
 - Nuclear actin polymerization is crucial for the assembly of baculovirus nucleocapsid, but the virus-mediated mechanism remains unclear.
 - VP39, the major protein in the baculovirus capsid, interacts with cellular actin and mediates actin polymerization. Its role in nuclear actin polymerization was previously uncertain.
@@ -117,7 +117,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/Plos.png' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](https://doi.org/10.1371/journal.ppat.1008633) **Plos Pathogens** 2020 Xiangshuo Kong et cl **Yang Li**, Xiaofeng Wu
+[Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](pdf/Plos.pdf) **Plos Pathogens** 2020 Xiangshuo Kong et cl **Yang Li**, Xiaofeng Wu
 
 - The study examines how Bombyx mori nucleopolyhedrovirus (BmNPV) infection impacts host chromatin architecture.
 - BmNPV infection leads to progressive chromatin remodeling, resulting in a more open chromatin structure and the marginalization of the host genome, accompanied by nucleosome disassembly.
