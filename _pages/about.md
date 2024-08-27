@@ -53,16 +53,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box'> <div class='paper-box-video'> <video width="392" height="221" controls> <source src="images/Cell_video.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div> <div class='paper-box-text' markdown="1">
-<div class='paper-box-text' markdown="1">
-[HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li** et al. Xing-Xing Shen
 
-- Genome-scale screening of HGT in 218 insect genomes.
-- Intron gains from native insect genomes were likely involved in HGT adaptation.
-- Lepidopterans acquired, on average, the highest number of HGT-acquired genes.
-- HGT-acquired gene enhances male courtship behavior in lepidopterans.
-</div>
-</div>
 
 ## 👄 Lip Generation/Understanding
 - [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao, **AAAI 2022**
