@@ -53,7 +53,11 @@ My broader interests include:
 </div>
 </div>
 
-<p style="margin-left;margin-bottom: 2px;margin-top: 2px"><video height="300" width="480" controls><source src="images/Cell_video.mp4" type="video/mp4">Your browser does not support the video tag.</source></video><br><b><strong><font face="verdana" color="#d16f2a" size="3.5">Mating experiments between wild-type and knockout<br>diamondback moths</font><strong></b></p>    	
+<div style="text-align: center;">
+    <video height="300" width="400" controls autoplay muted>
+        <source src="images/Cell_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 <div class='paper-box-text' markdown="1">
 
 [HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li** ec tl Xing-Xing Shen
