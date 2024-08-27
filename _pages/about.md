@@ -42,7 +42,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="60%"></div>
+<p style="margin-left;margin-bottom: 2px;margin-top: 2px"><div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="60%"></div>
 <div class='paper-box-text' markdown="1">
 
 [How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311) **Environmental Microbiology** 2023 Chao Liu, **Yang Li** ec tl Xing-Xing Shen
