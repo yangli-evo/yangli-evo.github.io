@@ -65,27 +65,6 @@ My broader interests include:
 </div>
 </div>
 
-
-## 👄 Lip Generation/Understanding
-- [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao, **AAAI 2022**
-- Flow-based Unconstrained Lip to Speech Generation, Jinzheng He, Zhou Zhao, **Yi Ren**, Jinglin Liu, Baoxing Huai, Nicholas Yuan, **AAAI 2022**
-- [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan, **ACM-MM 2020**
-
-## 📚 Machine Translation 
-- [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, Tao Qin, Kejun Zhang, Tie-Yan Liu, **AAAI 2021** \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu, **IJCAI 2020**
-- [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu, **ACL 2020**
-- [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao, Tie-Yan Liu, **ACL 2020**
-- [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ICLR 2019**
-
-## 🎼 Music Generation 
-- [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, **AAAI 2021**
-- [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ACM-MM 2020** <span style="color:red">(Oral)</span> \| [**Project**](https://speechresearch.github.io/popmag/)
-
-## 🧑‍🎨 Generative Model
-- [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, **ICLR 2022** \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models)
-
-
 # 🎖 Honors and Awards
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
@@ -93,12 +72,8 @@ My broader interests include:
 - *Oct 2022* National Scholarship (Graduate) (Top 1%)
 - *June 2022* Zhejiang University Excellent PhD Research Fellowship (Top 1%)
 
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
-
 # 📖 Educations
-- *Aug 2019 -  (now)*, Postdoctoral, Univeristy of Michigan, Michigan.
+- *Aug 2022 -  (now)*, Postdoctoral fellow, Univeristy of Michigan, US.
 - *Sep 2018 - June 2022*, PhD, Zhejiang Univeristy, Hangzhou.
 - *Sep 2014 - June 2018*, Undergraduate, Wuhan Polytechnic University, Wuhan.
 
