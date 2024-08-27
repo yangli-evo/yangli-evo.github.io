@@ -89,6 +89,18 @@ My broader interests include:
 </div>
 </div>
 
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](https://doi.org/10.1016/j.virol.2020.10.001) **Virology** 2021 Xiangshuo Kong ec tl **Yang Li**, Xiaofeng Wu
+
+- BmNPV infection induces cell detachment and morphological changes.
+- *Bm14* is a viral factor involved in BmNPV infection induced CPEs.
+- *Bm14* deletion activates cellular oxidative phosphorylation pathway and suppresses ROS levels.
+- The novel role of F-like protein in accelerating baculovirus infection via exerting cytopathogenic function.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
