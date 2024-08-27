@@ -39,7 +39,8 @@ My broader interests include:
 - Rotund is differentially expressed between long-winged and short-winged BPHs.
 - Knockdown of rotund reverses long wings into intermediate wings.
 - Binding to the TF FoxO inhibits the rotund activity.
-
+</div>
+</div>
 
 
 ## 👄 Lip Generation/Understanding
