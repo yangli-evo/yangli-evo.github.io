@@ -46,7 +46,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
-[How has HGT shaped the evolution of insect genomes?](https://doi.org/10.1111/1462-2920.16311) **Environmental Microbiology** 2023 Chao Liu, **Yang Li** ec tl Xing-Xing Shen
+[How has HGT shaped the evolution of insect genomes?](pdf/EM.pdf) **Environmental Microbiology** 2023 Chao Liu, **Yang Li** ec tl Xing-Xing Shen
 
 - Insects are incredibly diverse and essential to ecosystems.
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
@@ -57,7 +57,7 @@ My broader interests include:
 <div class='paper-box'><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="380" height="320" controls autoplay loop muted="border: none;"><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
   
-[HGT is widespread in insects and contributes to male courtship in lepidopterans](https://doi.org/10.1111/1462-2920.16311) **Cell** 2022 **Yang Li**, Zhiguo Liu, Chao Liu ec tl Antonis Rokas, Jianhua Huang, Xing-Xing Shen
+[HGT is widespread in insects and contributes to male courtship in lepidopterans](pdf/Cell2022.pdf) **Cell** 2022 **Yang Li**, Zhiguo Liu, Chao Liu ec tl Antonis Rokas, Jianhua Huang, Xing-Xing Shen
 
 - Genome-scale screening of HGT in 218 insect genomes.
 - Intron gains from native insect genomes were likely involved in HGT adaptation.
@@ -69,7 +69,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/DCI.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
-[BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](https://doi.org/10.1016/j.dci.2021.104036) **Developmental & Comparative Immunology** 2021 **Yang Li** ec tl Xiaofeng Wu
+[BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](pdf/DCI.pdf) **Developmental & Comparative Immunology** 2021 **Yang Li** ec tl Xiaofeng Wu
 
 - BmNPV triggers the heat-shock response, resulting in severe brain pathology.
 - BmNPV infection changed the host endogenous hormone homeostasis.
