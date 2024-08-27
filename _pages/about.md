@@ -60,9 +60,6 @@ My broader interests include:
             Your browser does not support the video tag.
         </video>
     </div>
-    <div class='paper-box-text' markdown="1">
-        <!-- 如果有其他文本信息，可以放在这里 -->
-    </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
