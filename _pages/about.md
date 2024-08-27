@@ -53,6 +53,20 @@ My broader interests include:
 </div>
 </div>
 
+<div class='paper-box'>
+    <div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;">
+        <video width="300" height="400" controls autoplay loop muted>
+            <source src="images/Cell_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        <a href="https://doi.org/10.1111/1462-2920.16311" target="_blank" rel="noopener noreferrer">
+            HGT is widespread in insects and contributes to male courtship in lepidopterans
+        </a>
+        <strong>Cell</strong> 2022 <strong>Yang Li</strong> et al. Xing-Xing Shen
+    </div>
+</div>
 
 
 ## 👄 Lip Generation/Understanding
