@@ -138,9 +138,4 @@ My broader interests include:
 - *Sep 2018 - June 2022*, PhD, Zhejiang Univeristy, Hangzhou.
 - *Sep 2014 - June 2018*, Undergraduate, Wuhan Polytechnic University, Wuhan.
 
-# 💬 Invited Talks
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
 
-# 💻 Internships
