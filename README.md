@@ -1,3 +1,3 @@
-
 <h1 align="center">
-[yangli-evo.github.io](https://yangli-evo.github.io/)
+  <a href="https://yangli-evo.github.io/">yangli-evo.github.io</a>
+</h1>
