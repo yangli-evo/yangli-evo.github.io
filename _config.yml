@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Li"
-description              : "Open to any collaborations and inquiries"
+description              : "Open to collaborations and inquiries—feel free to get in touch!"
 repository               : "yangli-evo/yangli-evo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang Li"# (Post Doc)
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "University of Michigan"
+  bio              : #"University of Michigan"
   location         : "Michigan, USA"
   employer         :
   pubmed           : 
