@@ -57,7 +57,8 @@ My broader interests include:
 <div class='paper-box'><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="380" height="320" controls autoplay loop muted="border: none;"><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
   
-[HGT is widespread in insects and contributes to male courtship in lepidopterans](pdf/Cell2022.pdf) **Cell** 2022 **Yang Li**, Zhiguo Liu, Chao Liu ec tl Antonis Rokas, Jianhua Huang, Xing-Xing Shen
+[HGT is widespread in insects and contributes to male courtship in lepidopterans](pdf/Cell2022.pdf) **Cell** 2022 **Yang Li**, Liu, Z., Liu, C., Shi, Z., Pang, L., Chen, C., Chen, Y., Pan, R., Zhou, W., Chen, X.-x., Rokas, A.,
+Huang, J. & Shen, X.-X. H
 
 - Genome-scale screening of HGT in 218 insect genomes.
 - Intron gains from native insect genomes were likely involved in HGT adaptation.
