@@ -130,7 +130,7 @@ Huang, J. Shen, X.-X.
 # 🎖 Honors and Awards
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
-- *Nov 2022* [Chu Kochen Scholarship](https://baijiahao.baidu.com/s?id=1749110967329948808) (12 graduated students in the Zhejiang University each year)
+- *Nov 2022* [Chu Kochen Scholarship-Highest Honour of the University](https://baijiahao.baidu.com/s?id=1749110967329948808) (12 graduated students in the Zhejiang University each year)
 - *Oct 2022* National Scholarship (Graduate) (Top 1%)
 - *June 2022* Zhejiang University Excellent PhD Research Fellowship (Top 1%)
 
