@@ -21,6 +21,7 @@ My broader interests include:
 
 
 # 🔥 News
+- *Dec 2024*: Awarded for Outstanding Doctoral Dissertation of Zhejiang Province
 - *Sep 2024*: Awarded the UMPDA Travel Award
 - *July 2024*: Attended the SMBE meeting in Mexico and gave a presentation.
 - *Aug 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
@@ -128,6 +129,8 @@ Huang, J. Shen, X.-X.
 </div>
 
 # 🎖 Honors and Awards
+- *Feb 2024* Outstanding Doctoral Dissertation of **Zhejiang Province**. (Top 1%)
+- *Dec 2024* Outstanding Doctoral Dissertation of **Zhejiang University** (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
 - *Nov 2022* [Chu Kochen Scholarship-Highest Honour of the University](https://baijiahao.baidu.com/s?id=1749110967329948808) (12 graduated students in the Zhejiang University each year)
@@ -135,8 +138,8 @@ Huang, J. Shen, X.-X.
 - *June 2022* Zhejiang University Excellent PhD Research Fellowship (Top 1%)
 
 # 📖 Educations
-- *Aug 2022 -  (now)*, Postdoctoral fellow, Univeristy of Michigan, US.
-- *Sep 2018 - June 2022*, PhD, Zhejiang Univeristy, Hangzhou.
+- *Aug 2023 -  (now)*, Postdoctoral fellow, Univeristy of Michigan, US.
+- *Sep 2018 - June 2023*, PhD, Zhejiang Univeristy, Hangzhou.
 - *Sep 2014 - June 2018*, Undergraduate, Wuhan Polytechnic University, Wuhan.
 
 
