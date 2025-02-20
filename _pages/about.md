@@ -140,7 +140,7 @@ Huang, J. Shen, X.-X.
 </div>
 
 # 🎖 Honors and Awards
-- *Feb 2024* Outstanding Doctoral Dissertation of **Zhejiang Province**. (Top 1%)
+- *Feb 2024* Outstanding Doctoral Dissertation of **Zhejiang Province**. (Top 0.1%)
 - *Dec 2024* Outstanding Doctoral Dissertation of **Zhejiang University** (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang Province (Top 1%)
 - *July 2023* Outstanding Graduates of Zhejiang University (Top 5%)
@@ -150,7 +150,7 @@ Huang, J. Shen, X.-X.
 
 # 📖 Educations
 - *Aug 2023 -  (now)*, Postdoctoral fellow, Univeristy of Michigan, US.
-- *Sep 2018 - June 2023*, PhD, Zhejiang Univeristy, Hangzhou.
+- *Sep 2018 - June 2023*, Ph.D, Zhejiang Univeristy, Hangzhou.
 - *Sep 2014 - June 2018*, Undergraduate, Wuhan Polytechnic University, Wuhan.
 
 
