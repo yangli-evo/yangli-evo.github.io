@@ -32,7 +32,7 @@ My broader interests include:
 
 
 # 📝 Publications 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="65%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](https://doi.org/10.1101/gr.280008.124)  **Genome Research** 2025 **Li, Yang** & Jianzhi Zhang
