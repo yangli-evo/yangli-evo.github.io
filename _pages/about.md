@@ -32,7 +32,18 @@ My broader interests include:
 
 
 # 📝 Publications 
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_gr.png' alt="sym" width="65%"></div>
+<div class='paper-box-text' markdown="1">
 
+[Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved
+](https://doi.org/10.1101/gr.280008.124) **iScience** 2025 **Li, Yang**, Jianzhi Zhang
+
+- Gene knockout effects often include byproducts and do not reflect true function.
+- Orthologous gene deletions in different yeasts show distinct transcriptomic and proteomic changes.
+- Expression levels are stable, but deletion effects vary due to genetic background.
+- Most gene deletion effects do not reveal real gene function.
+</div>
+</div>
 
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="65%"></div>
 <div class='paper-box-text' markdown="1">
