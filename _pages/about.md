@@ -32,11 +32,10 @@ My broader interests include:
 
 
 # 📝 Publications 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_gr.png' alt="sym" width="65%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="65%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved
-](https://doi.org/10.1101/gr.280008.124) **iScience** 2025 **Li, Yang**, Jianzhi Zhang
+[Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](https://doi.org/10.1101/gr.280008.124)  **Genome Research** 2025 **Li, Yang** & Jianzhi Zhang
 
 - Gene knockout effects often include byproducts and do not reflect true function.
 - Orthologous gene deletions in different yeasts show distinct transcriptomic and proteomic changes.
@@ -48,7 +47,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="65%"></div>
 <div class='paper-box-text' markdown="1">
 
-[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](pdf/Iscience.pdf) **iScience** 2023 Chen, S.-J., Zhang, J.-L., Ma, W.-J., Wu, H.-J., **Li, Yang**, Shen, X.-X. Xu, H.-J. F
+[FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](pdf/Iscience.pdf)  **iScience** 2023 Chen, S.-J., Zhang, J.-L., Ma, W.-J., Wu, H.-J., **Li, Yang**, Shen, X.-X. Xu, H.-J. F
 
 - *Rotund* is differentially expressed between long-winged and short-winged BPHs.
 - Knockdown of rotund reverses long wings into intermediate wings.
@@ -59,7 +58,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="70%"></div>
 <div class='paper-box-text' markdown="1">
 
-[How has HGT shaped the evolution of insect genomes?](pdf/EM.pdf) **Environmental Microbiology** 2023 Chao, L., **Li, Yang**, Chen, Y., Chen, X.-x., Huang, J., Rokas, A. Shen, X.-X.
+[How has HGT shaped the evolution of insect genomes?](pdf/EM.pdf)  **Environmental Microbiology** 2023 Chao, L., **Li, Yang**, Chen, Y., Chen, X.-x., Huang, J., Rokas, A. Shen, X.-X.
 
 - Insects are incredibly diverse and essential to ecosystems.
 - Horizontal gene transfer (HGT) is important in prokaryotic evolution, and recent studies show it also plays a role in insect evolution.
@@ -70,7 +69,7 @@ My broader interests include:
 <div class='paper-box'><div class='paper-box-video' style="display: flex; justify-content: center; align-items: center;"><video width="380" height="320" controls autoplay loop muted="border: none;"><source src="images/Cell_video.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
   
-[HGT is widespread in insects and contributes to male courtship in lepidopterans](pdf/Cell2022.pdf) **Cell** 2022 **Yang Li**, Liu, Z., Liu, C., Shi, Z., Pang, L., Chen, C., Chen, Y., Pan, R., Zhou, W., Chen, X.-x., Rokas, A.,
+[HGT is widespread in insects and contributes to male courtship in lepidopterans](pdf/Cell2022.pdf)  **Cell** 2022 **Yang Li**, Liu, Z., Liu, C., Shi, Z., Pang, L., Chen, C., Chen, Y., Pan, R., Zhou, W., Chen, X.-x., Rokas, A.,
 Huang, J. Shen, X.-X.
 
 - Genome-scale screening of HGT in 218 insect genomes.
@@ -83,7 +82,7 @@ Huang, J. Shen, X.-X.
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/DCI.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
-[BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](pdf/DCI.pdf) **Developmental & Comparative Immunology** 2021 **Yang Li**, Zhang, J., Zhao, S. Wu, X.
+[BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior](pdf/DCI.pdf)  **Developmental & Comparative Immunology** 2021 **Yang Li**, Zhang, J., Zhao, S. Wu, X.
 
 - BmNPV triggers the heat-shock response, resulting in severe brain pathology.
 - BmNPV infection changed the host endogenous hormone homeostasis.
@@ -95,7 +94,7 @@ Huang, J. Shen, X.-X.
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](pdf/VR.pdf) **Virus Research** 2020 **Li, Yang**, Zhang, J., Kong, X., Chen, N., Zeng, X. Wu, X.
+[Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](pdf/VR.pdf)  **Virus Research** 2020 **Li, Yang**, Zhang, J., Kong, X., Chen, N., Zeng, X. Wu, X.
 
 - *Bm46* is not a core gene in baculovirus, but plays a pivotal role during the late infection.
 - The deletion of Bm46 resulted in a decreased BV production but did not affect viral DNA replication.
@@ -107,7 +106,7 @@ Huang, J. Shen, X.-X.
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](pdf/Virology1.pdf) **Virology** 2020 Kong, X., Xu, W., Chen, N., **Li, Yang**, Shen, Y. Wu, X.
+[Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](pdf/Virology1.pdf)  **Virology** 2020 Kong, X., Xu, W., Chen, N., **Li, Yang**, Shen, Y. Wu, X.
 
 - BmNPV infection induces cell detachment and morphological changes.
 - *Bm14* is a viral factor involved in BmNPV infection induced CPEs.
@@ -119,7 +118,7 @@ Huang, J. Shen, X.-X.
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology2.png' alt="sym" width="82%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](pdf/Virology2.pdf) **Virology** 2020 Zhang, J., **Li, Yang**, Zhao, S. Wu, X.
+[Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](pdf/Virology2.pdf)  **Virology** 2020 Zhang, J., **Li, Yang**, Zhao, S. Wu, X.
 
 - Nuclear actin polymerization is crucial for the assembly of baculovirus nucleocapsid, but the virus-mediated mechanism remains unclear.
 - VP39, the major protein in the baculovirus capsid, interacts with cellular actin and mediates actin polymerization. Its role in nuclear actin polymerization was previously uncertain.
@@ -131,7 +130,7 @@ Huang, J. Shen, X.-X.
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/Plos.png' alt="sym" width="80%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](pdf/Plos.pdf) **Plos Pathogens** 2020 Kong, X., Wei, G., Chen, N., Zhao, S., Shen, Y., Zhang, J., **Li, Yang**, Zeng, X. Wu, X. 
+[Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](pdf/Plos.pdf)  **Plos Pathogens** 2020 Kong, X., Wei, G., Chen, N., Zhao, S., Shen, Y., Zhang, J., **Li, Yang**, Zeng, X. Wu, X. 
 
 - The study examines how Bombyx mori nucleopolyhedrovirus (BmNPV) infection impacts host chromatin architecture.
 - BmNPV infection leads to progressive chromatin remodeling, resulting in a more open chromatin structure and the marginalization of the host genome, accompanied by nucleosome disassembly.
