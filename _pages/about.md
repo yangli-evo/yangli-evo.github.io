@@ -21,6 +21,7 @@ My broader interests include:
 
 
 # 🔥 News
+- *Feb 2025*: &nbsp;🎉🎉New paper in **[Genome Research](pdf/Cell2022.pdf)** on Transcriptomic and proteomic effects of gene deletion!
 - *Dec 2024*: Awarded for Outstanding Doctoral Dissertation of Zhejiang Province
 - *Sep 2024*: Awarded the UMPDA Travel Award
 - *July 2024*: Attended the SMBE meeting in Mexico and gave a presentation.
