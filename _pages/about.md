@@ -32,7 +32,7 @@ My broader interests include:
 
 
 # 📝 Publications 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="100%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](https://doi.org/10.1101/gr.280008.124)  **Genome Research** 2025 **Li, Yang** & Jianzhi Zhang
@@ -44,7 +44,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="65%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P_xu.png' alt="sym" width="75%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FoxO and rotund form a binding complex governing wing polyphenism in planthoppers](pdf/Iscience.pdf)  **iScience** 2023 Chen, S.-J., Zhang, J.-L., Ma, W.-J., Wu, H.-J., **Li, Yang**, Shen, X.-X. Xu, H.-J. F
@@ -55,7 +55,7 @@ My broader interests include:
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="70%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-Env.png' alt="sym" width="75%"></div>
 <div class='paper-box-text' markdown="1">
 
 [How has HGT shaped the evolution of insect genomes?](pdf/EM.pdf)  **Environmental Microbiology** 2023 Chao, L., **Li, Yang**, Chen, Y., Chen, X.-x., Huang, J., Rokas, A. Shen, X.-X.
@@ -91,7 +91,7 @@ Huang, J. Shen, X.-X.
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="90%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/VR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis](pdf/VR.pdf)  **Virus Research** 2020 **Li, Yang**, Zhang, J., Kong, X., Chen, N., Zeng, X. Wu, X.
@@ -103,7 +103,7 @@ Huang, J. Shen, X.-X.
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="100%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology.png' alt="sym" width="110%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels](pdf/Virology1.pdf)  **Virology** 2020 Kong, X., Xu, W., Chen, N., **Li, Yang**, Shen, Y. Wu, X.
@@ -115,7 +115,7 @@ Huang, J. Shen, X.-X.
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology2.png' alt="sym" width="82%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/virology2.png' alt="sym" width="83%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Identification of A functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization](pdf/Virology2.pdf)  **Virology** 2020 Zhang, J., **Li, Yang**, Zhao, S. Wu, X.
@@ -127,7 +127,7 @@ Huang, J. Shen, X.-X.
 </div>
 </div>
 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/Plos.png' alt="sym" width="80%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/Plos.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection](pdf/Plos.pdf)  **Plos Pathogens** 2020 Kong, X., Wei, G., Chen, N., Zhao, S., Shen, Y., Zhang, J., **Li, Yang**, Zeng, X. Wu, X. 
