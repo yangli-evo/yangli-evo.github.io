@@ -21,7 +21,7 @@ My broader interests include:
 
 
 # 🔥 News
-- *Feb 2025*: &nbsp;🎉🎉New paper in **[Genome Research](https://doi.org/10.1101/gr.280008.124)** on Transcriptomic and proteomic effects of gene deletion!
+- *Feb 2025*: &nbsp;🎉🎉New paper in **[Genome Research](pdf/GR2025.pdf)** on Transcriptomic and proteomic effects of gene deletion!
 - *Dec 2024*: Awarded for Outstanding Doctoral Dissertation of Zhejiang Province
 - *Sep 2024*: Awarded the UMPDA Travel Award
 - *July 2024*: Attended the SMBE meeting in Mexico and gave a presentation.
@@ -35,7 +35,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](https://doi.org/10.1101/gr.280008.124)  **Genome Research** 2025 **Li, Yang** and Jianzhi Zhang
+[Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](pdf/GR2025.pdf)  **Genome Research** 2025 **Li, Yang** and Jianzhi Zhang
 
 - Gene knockout effects often include byproducts and do not reflect true function.
 - Orthologous gene deletions in different yeasts show distinct transcriptomic and proteomic changes.
