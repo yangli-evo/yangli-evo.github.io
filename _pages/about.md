@@ -21,6 +21,7 @@ My broader interests include:
 
 
 # 🔥 News
+- *Mar 2025*: &nbsp;🎉🎉New paper in **[Molecular Ecology and Evolution]** on Fitness landscape!
 - *Feb 2025*: &nbsp;🎉🎉New paper in **[Genome Research](pdf/GR2025.pdf)** on Transcriptomic and proteomic effects of gene deletion!
 - *Dec 2024*: Awarded for Outstanding Doctoral Dissertation of Zhejiang Province
 - *Sep 2024*: Awarded the UMPDA Travel Award
@@ -28,7 +29,7 @@ My broader interests include:
 - *Aug 2023*: Appointed as a Postdoctoral Fellow. First time in the United States!
 - *July 2023*: Graduated as one of the Outstanding Graduates of Zhejiang Province (Top 1%).
 - *July 2022*: &nbsp;🎉🎉New paper in **[Cell](pdf/Cell2022.pdf)** on widespread horizontal gene transfer (HGT) in insects!
-- *June 2022*: Awarded the Zhejiang University Excellent PhD Research Fellowship!
+
 
 
 # 📝 Publications 
