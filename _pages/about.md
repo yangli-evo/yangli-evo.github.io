@@ -45,6 +45,9 @@ My broader interests include:
 </div>
 </div>
 
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="90%"></div>
+<div class='paper-box-text' markdown="1">
+  
 [Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](pdf/GR2025.pdf)  **Genome Research** 2025 **Li, Yang** and Jianzhi Zhang
 
 - Gene knockout effects often include byproducts and do not reflect true function.
