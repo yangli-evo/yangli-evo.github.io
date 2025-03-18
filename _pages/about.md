@@ -40,8 +40,8 @@ My broader interests include:
 
 - The probability of reaching high peaks (P<sub>HP</sub>) varies widely across empirical and theoretical fitness landscapes.
 - Landscape ruggedness strongly influences (P<sub>HP</sub>), with smoother landscapes allowing easier access to high peaks.
-- Higher peaks generally have larger basins, but this correlation alone does not ensure high PHP.
-- Empirical landscapes do not consistently exhibit higher-than-expected P_HP compared to RMF landscapes.
+- Higher peaks generally have larger basins, but this correlation alone does not ensure high (P<sub>HP</sub>).
+- Empirical landscapes do not consistently exhibit higher-than-expected (P<sub>HP</sub>) compared to RMF landscapes.
 </div>
 </div>
 
