@@ -36,6 +36,15 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
+[On the probability of reaching high peaks in fitness landscapes by adaptive walks]  **Molecular Biology and Evolution** 2025 **Li, Yang** and Jianzhi Zhang
+
+- The probability of reaching high peaks (P_HP) varies widely across empirical and theoretical fitness landscapes.
+- Landscape ruggedness strongly influences PHP, with smoother landscapes allowing easier access to high peaks.
+- Higher peaks generally have larger basins, but this correlation alone does not ensure high PHP.
+- Empirical landscapes do not consistently exhibit higher-than-expected P_HP compared to RMF landscapes.
+</div>
+</div>
+
 [Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved](pdf/GR2025.pdf)  **Genome Research** 2025 **Li, Yang** and Jianzhi Zhang
 
 - Gene knockout effects often include byproducts and do not reflect true function.
