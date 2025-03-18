@@ -33,7 +33,7 @@ My broader interests include:
 
 
 # 📝 Publications 
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/P-gr.png' alt="sym" width="90%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/MBE2025.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
 [On the probability of reaching high peaks in fitness landscapes by adaptive walks]  **Molecular Biology and Evolution** 2025 **Li, Yang** and Jianzhi Zhang
