@@ -21,7 +21,7 @@ My broader interests include:
 
 
 # 🔥 News
-- *Mar 2025*: &nbsp;🎉🎉New paper in **[Molecular Ecology and Evolution]** on Fitness landscape!
+- *Mar 2025*: &nbsp;🎉🎉New paper in **[Molecular Ecology and Evolution](https://doi.org/10.1093/molbev/msaf066)** on Fitness landscape!
 - *Feb 2025*: &nbsp;🎉🎉New paper in **[Genome Research](pdf/GR2025.pdf)** on Transcriptomic and proteomic effects of gene deletion!
 - *Dec 2024*: Awarded for Outstanding Doctoral Dissertation of Zhejiang Province
 - *Sep 2024*: Awarded the UMPDA Travel Award
@@ -36,7 +36,7 @@ My broader interests include:
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/MBE2025.png' alt="sym" width="82%"></div>
 <div class='paper-box-text' markdown="1">
 
-[On the probability of reaching high peaks in fitness landscapes by adaptive walks]  **Molecular Biology and Evolution** 2025 **Li, Yang** and Jianzhi Zhang
+[On the probability of reaching high peaks in fitness landscapes by adaptive walks](https://doi.org/10.1093/molbev/msaf066)  **Molecular Biology and Evolution** 2025 **Li, Yang** and Jianzhi Zhang
 
 - The probability of reaching high peaks (P<sub>HP</sub>) varies widely across empirical and theoretical fitness landscapes.
 - Landscape ruggedness strongly influences (P<sub>HP</sub>), with smoother landscapes allowing easier access to high peaks.
