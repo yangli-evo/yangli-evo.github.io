@@ -33,7 +33,7 @@ My broader interests include:
 
 
 # 📝 Publications
-<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/SA2025.png' alt="sym" width="95%"></div>
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/SA2025.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Fruit flies exploit behavioral fever as a defense strategy against parasitic insects](pdf/SA2025.pdf)  **Science Advances** 2025 Sheng, Y., Xu, Z., **Yang Li**, Chen, J., Pang, L., Lu, Y., Dong, Z., Zhang, Q., Zhang, J., Feng, T.,
