@@ -32,7 +32,21 @@ My broader interests include:
 
 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/SA2025.png' alt="sym" width="82%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Fruit flies exploit behavioral fever as a defense strategy against parasitic insects](pdf/SA2025.pdf)  **Science Advances** 2025 Sheng, Y., Xu, Z., **Yang Li**, Chen, J., Pang, L., Lu, Y., Dong, Z., Zhang, Q., Zhang, J., Feng, T.,
+Shi, W., Wang, Y., Chen, X., Shen, X. & Huang, J. F
+
+- Behavioral fever is observed in fruit flies infected by parasitoid wasps, marking the first documented case against macroparasites.
+- The induction of behavioral fever depends on the upregulation of Heat shock protein 70 (Hsp70) genes; loss of Hsp70 abolishes fever, while overexpression triggers heat-seeking behavior.
+- Elevated temperatures (behavioral fever) enhance host survival by killing parasitoid wasps through disrupting their gut microbiota via host antimicrobial peptides (AMPs).
+- Behavioral fever strengthens host immune responses, notably upregulating AMP and other immune genes at higher temperatures.
+- This adaptive strategy demonstrates how ectothermic animals leverage behavioral fever to combat macroparasite infections, expanding our understanding of host-parasite interactions.
+</div>
+</div>
+
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/MBE2025.png' alt="sym" width="82%"></div>
 <div class='paper-box-text' markdown="1">
 
