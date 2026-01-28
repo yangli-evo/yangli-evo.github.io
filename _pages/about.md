@@ -33,11 +33,24 @@ My broader interests include:
 
 
 # 📝 Publications
+
+
+<div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/EMBO2026.png' alt="sym" width="82%"></div>
+<div class='paper-box-text'  markdown="1">
+  
+[A bacterial gene acquired by parasitoid wasps contributes to venom secretion against host defence](pdf/EMBO2026.pdf)  **EMBO Journal** 2026 Liu, Z., Tao, M., Xu, Z., Zhang, J., **Yang Li**., Dong, Z., Zhang, Q., Pang, L., Sheng, Y., Lu, Y., Feng, T., Shi, W., Yu, L., Rokas, A., Chen, J., Shen, X., Huang, J.H
+
+- Systematic identification of 19 HGT-acquired genes in five Leptopilina parasitoid wasps.
+- A prokaryotic-type PTCDS gene, horizontally transferred from Rickettsiaceae bacteria, is required for appropriate venom storage in the venom reservoir of Leptopilina heterotoma and L. syphax.
+- PTCDS functions in the venom gland cells to regulate vesicle-mediated secretion of venom into the reservoir, thereby suppressing host encapsulation response.
+</div>
+</div>
+
 <div class='paper-box' ><div class='paper-box-image' style="display: flex; justify-content: center; align-items: center;"><img src='images/SA2025.png' alt="sym" width="90%"></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Fruit flies exploit behavioral fever as a defense strategy against parasitic insects](pdf/SA2025.pdf)  **Science Advances** 2025 Sheng, Y., Xu, Z., **Yang Li**, Chen, J., Pang, L., Lu, Y., Dong, Z., Zhang, Q., Zhang, J., Feng, T.,
-Shi, W., Wang, Y., Chen, X., Shen, X. & Huang, J. F
+Shi, W., Wang, Y., Chen, X., Shen, X. & Huang, J. H
 
 - Behavioral fever is observed in fruit flies infected by parasitoid wasps, marking the first documented case against macroparasites.
 - The induction of behavioral fever depends on the upregulation of Heat shock protein 70 (Hsp70) genes; loss of Hsp70 abolishes fever, while overexpression triggers heat-seeking behavior.
