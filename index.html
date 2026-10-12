@@ -1,0 +1,142 @@
+---
+layout: default
+---
+{% assign p = site.data.profile %}
+{% assign pubs = site.data.publications %}
+{% assign lead_pubs = pubs | where: "lead", true %}
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#top">{{ p.name }}</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#research">Research</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#honors">Honors</a>
+      <a href="#education">Education</a>
+    </nav>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+    </button>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" id="top">
+    <img class="portrait" src="{{ p.photo | relative_url }}" alt="Portrait of {{ p.name }}" width="220" height="228">
+    <div class="hero-text">
+      <p class="eyebrow">{{ p.role }} · {{ p.institution }}</p>
+      <h1>{{ p.name }}</h1>
+      <p class="affil">{{ p.department }}<br>{{ p.location }}</p>
+      <div class="bio">{{ p.bio | markdownify }}</div>
+      <ul class="links">
+        <li><a class="link-primary" href="mailto:{{ p.email }}">{{ p.email }}</a></li>
+        {% for l in p.links %}
+        <li><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <section id="research" class="section">
+    <h2>Research</h2>
+    <div class="interests">
+      {% for it in p.interests %}
+      <article class="interest">
+        <span class="interest-num">0{{ forloop.index }}</span>
+        <h3>{% if it.link %}<a href="{{ it.link | relative_url }}">{{ it.title }}</a>{% else %}{{ it.title }}{% endif %}</h3>
+        <p>{{ it.text }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section id="news" class="section">
+    <h2>News</h2>
+    <ol class="timeline">
+      {% for n in site.data.news %}
+      <li class="{% if n.paper %}is-paper{% endif %}{% if forloop.index > 6 %} is-extra{% endif %}">
+        <time>{{ n.date }}</time>
+        <div>{{ n.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% if site.data.news.size > 6 %}
+    <button class="more" type="button" data-target="#news .timeline">Show all news</button>
+    {% endif %}
+  </section>
+
+  <section id="publications" class="section">
+    <div class="section-head">
+      <h2>Publications</h2>
+      <div class="filter" role="group" aria-label="Filter publications">
+        <button type="button" class="is-active" data-filter="all">All <span>{{ pubs.size }}</span></button>
+        <button type="button" data-filter="lead">First author <span>{{ lead_pubs.size }}</span></button>
+      </div>
+    </div>
+
+    {% assign years = pubs | group_by: "year" %}
+    {% for y in years %}
+    <div class="year-group">
+      <h3 class="year">{{ y.name }}</h3>
+      {% for pub in y.items %}
+      <article class="pub" data-lead="{% if pub.lead %}true{% else %}false{% endif %}">
+        <a class="pub-media" href="{{ pub.pdf | relative_url }}" tabindex="-1" aria-hidden="true">
+          {% if pub.video %}
+          <video src="{{ pub.video | relative_url }}" autoplay loop muted playsinline preload="metadata"></video>
+          {% else %}
+          <img src="{{ pub.image | relative_url }}" alt="" loading="lazy">
+          {% endif %}
+        </a>
+        <div class="pub-body">
+          <h4><a href="{{ pub.pdf | relative_url }}">{{ pub.title }}</a></h4>
+          <p class="authors">{{ pub.authors }}</p>
+          <p class="venue"><em>{{ pub.venue }}</em>, {{ pub.year }} · <a href="{{ pub.pdf | relative_url }}">PDF</a></p>
+          {% if pub.highlights %}
+          <details>
+            <summary>Key findings</summary>
+            <ul>
+              {% for h in pub.highlights %}<li>{{ h }}</li>{% endfor %}
+            </ul>
+          </details>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </section>
+
+  <div class="two-col">
+    <section id="honors" class="section">
+      <h2>Honors &amp; Awards</h2>
+      <ul class="plain-list">
+        {% for h in site.data.honors %}
+        <li>
+          <time>{{ h.date }}</time>
+          <div>
+            {% if h.url %}<a href="{{ h.url }}" target="_blank" rel="noopener">{{ h.title }}</a>{% else %}{{ h.title }}{% endif %}
+            {% if h.note %}<span class="note">{{ h.note }}</span>{% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <section id="education" class="section">
+      <h2>Education &amp; Positions</h2>
+      <ul class="plain-list">
+        {% for e in site.data.education %}
+        <li>
+          <time>{{ e.period }}</time>
+          <div><strong>{{ e.title }}</strong><br><span class="muted">{{ e.place }}</span></div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</main>
+
+<footer class="footer">
+  <p>© {{ site.time | date: "%Y" }} {{ p.name }} · Last updated {{ site.time | date: "%B %Y" }}</p>
+</footer>

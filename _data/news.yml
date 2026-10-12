@@ -1,0 +1,26 @@
+# Newest first. `paper: true` marks a publication announcement.
+- date: Jan 2026
+  paper: true
+  text: New paper in [EMBO Journal](/pdf/EMBO2026.pdf) on a horizontally transferred bacterial gene in parasitoid wasp venom secretion.
+- date: May 2025
+  paper: true
+  text: New paper in [Science Advances](/pdf/SA2025.pdf) on behavioral fever in fruit flies against parasitoid wasps.
+- date: Mar 2025
+  paper: true
+  text: New paper in [Molecular Biology and Evolution](/pdf/MBE2025.pdf) on reaching high peaks in fitness landscapes.
+- date: Feb 2025
+  paper: true
+  text: New paper in [Genome Research](/pdf/GR2025.pdf) on the transcriptomic and proteomic effects of gene deletion.
+- date: Dec 2024
+  text: Received the Outstanding Doctoral Dissertation Award of Zhejiang Province.
+- date: Sep 2024
+  text: Received the UMPDA Travel Award.
+- date: Jul 2024
+  text: Attended the SMBE annual meeting in Mexico.
+- date: Aug 2023
+  text: Started as a Postdoctoral Fellow at the University of Michigan.
+- date: Jul 2023
+  text: Graduated as an Outstanding Graduate of Zhejiang Province (top 1%).
+- date: Jul 2022
+  paper: true
+  text: New paper in [Cell](/pdf/Cell2022.pdf) on widespread horizontal gene transfer in insects.

@@ -1,0 +1,139 @@
+# Newest first.
+# `lead: true` marks papers where Yang Li is first or co-corresponding author.
+# Use `image:` for a figure or `video:` for a short clip.
+
+- title: A bacterial gene acquired by parasitoid wasps contributes to venom secretion against host defence
+  venue: EMBO Journal
+  year: 2026
+  authors: Liu Z, Tao M, Xu Z, Zhang J, <b>Li Y</b>, Dong Z, Zhang Q, Pang L, Sheng Y, Lu Y, Feng T, Shi W, Yu L, Rokas A, Chen J, Shen X, Huang JH
+  pdf: /pdf/EMBO2026.pdf
+  image: /images/EMBO2026.png
+  highlights:
+    - Systematic identification of 19 horizontally acquired genes in five <i>Leptopilina</i> parasitoid wasps.
+    - A prokaryotic-type gene, <i>PTCDS</i>, transferred from Rickettsiaceae bacteria, is required for proper venom storage in <i>L. heterotoma</i> and <i>L. syphax</i>.
+    - <i>PTCDS</i> acts in venom gland cells to regulate vesicle-mediated venom secretion, suppressing the host encapsulation response.
+
+- title: Fruit flies exploit behavioral fever as a defense strategy against parasitic insects
+  venue: Science Advances
+  year: 2025
+  authors: Sheng Y, Xu Z, <b>Li Y</b>, Chen J, Pang L, Lu Y, Dong Z, Zhang Q, Zhang J, Feng T, Shi W, Wang Y, Chen X, Shen X, Huang JH
+  pdf: /pdf/SA2025.pdf
+  image: /images/SA2025.png
+  highlights:
+    - First documented case of behavioral fever against a macroparasite, observed in fruit flies infected by parasitoid wasps.
+    - Fever depends on upregulation of <i>Hsp70</i> genes; loss of <i>Hsp70</i> abolishes it, while overexpression triggers heat-seeking.
+    - Higher temperatures kill wasp larvae by disrupting their gut microbiota through host antimicrobial peptides.
+    - Shows how ectotherms use behavior to strengthen immunity against macroparasites.
+
+- title: On the probability of reaching high peaks in fitness landscapes by adaptive walks
+  venue: Molecular Biology and Evolution
+  year: 2025
+  authors: <b>Li Y</b>, Zhang J
+  lead: true
+  pdf: /pdf/MBE2025.pdf
+  image: /images/MBE2025.png
+  highlights:
+    - The probability of reaching high peaks (P<sub>HP</sub>) varies widely across empirical and theoretical fitness landscapes.
+    - Ruggedness strongly shapes P<sub>HP</sub>; smoother landscapes make high peaks easier to reach.
+    - Higher peaks tend to have larger basins, but this alone does not guarantee a high P<sub>HP</sub>.
+    - Empirical landscapes do not consistently show higher P<sub>HP</sub> than Rough Mount Fuji models.
+
+- title: Transcriptomic and proteomic effects of gene deletion are not evolutionarily conserved
+  venue: Genome Research
+  year: 2025
+  authors: <b>Li Y</b>, Zhang J
+  lead: true
+  pdf: /pdf/GR2025.pdf
+  image: /images/P-gr.png
+  highlights:
+    - Deleting orthologous genes in different yeasts produces distinct transcriptomic and proteomic changes.
+    - Expression levels themselves are conserved, but deletion effects depend on genetic background.
+    - Most molecular effects of a deletion are byproducts and say little about the gene's actual function.
+
+- title: FoxO and rotund form a binding complex governing wing polyphenism in planthoppers
+  venue: iScience
+  year: 2023
+  authors: Chen SJ, Zhang JL, Ma WJ, Wu HJ, <b>Li Y</b>, Shen XX, Xu HJ
+  pdf: /pdf/Iscience.pdf
+  image: /images/P_xu.png
+  highlights:
+    - <i>rotund</i> is differentially expressed between long- and short-winged brown planthoppers.
+    - Knocking down <i>rotund</i> turns long wings into intermediate wings.
+    - Binding to the transcription factor FoxO inhibits <i>rotund</i> activity.
+
+- title: How has horizontal gene transfer shaped the evolution of insect genomes?
+  venue: Environmental Microbiology
+  year: 2023
+  authors: Chao L, <b>Li Y</b>, Chen Y, Chen XX, Huang J, Rokas A, Shen XX
+  pdf: /pdf/EM.pdf
+  image: /images/P-Env.png
+  highlights:
+    - Reviews the growing genomic evidence for horizontal gene transfer in insects.
+    - Discusses what remains unknown about its overall extent and underlying mechanisms.
+
+- title: Horizontal gene transfer is widespread in insects and contributes to male courtship in lepidopterans
+  venue: Cell
+  year: 2022
+  authors: <b>Li Y</b>, Liu Z, Liu C, Shi Z, Pang L, Chen C, Chen Y, Pan R, Zhou W, Chen XX, Rokas A, Huang J, Shen XX
+  lead: true
+  pdf: /pdf/Cell2022.pdf
+  video: /images/Cell_video.mp4
+  highlights:
+    - Genome-scale screen for horizontal gene transfer across 218 insect genomes.
+    - Lepidopterans carry, on average, the most horizontally acquired genes.
+    - Intron gains from host genomes likely helped foreign genes adapt.
+    - A horizontally acquired gene enhances male courtship behavior in moths.
+
+- title: BmNPV-induced hormone metabolic disorder in silkworm leads to enhanced locomotory behavior
+  venue: Developmental & Comparative Immunology
+  year: 2021
+  authors: <b>Li Y</b>, Zhang J, Zhao S, Wu X
+  lead: true
+  pdf: /pdf/DCI.pdf
+  image: /images/DCI.png
+  highlights:
+    - BmNPV triggers a heat-shock response and severe brain pathology.
+    - Infection disrupts host hormone homeostasis.
+    - 20E and dopamine act in opposition to regulate virus-induced hyperactivity.
+
+- title: Bombyx mori nucleopolyhedrovirus Bm46 is essential for efficient production of infectious BV and nucleocapsid morphogenesis
+  venue: Virus Research
+  year: 2020
+  authors: <b>Li Y</b>, Zhang J, Kong X, Chen N, Zeng X, Wu X
+  lead: true
+  pdf: /pdf/VR.pdf
+  image: /images/VR.png
+  highlights:
+    - <i>Bm46</i> is not a baculovirus core gene but is pivotal late in infection.
+    - Deleting <i>Bm46</i> lowers budded virus production without affecting viral DNA replication.
+    - <i>Bm46</i> is required for proper nucleocapsid assembly; VP39 mislocalizes without it.
+
+- title: Bombyx mori nucleopolyhedrovirus F-like protein Bm14 is a factor for viral-induced cytopathic effects via regulating oxidative phosphorylation and cellular ROS levels
+  venue: Virology
+  year: 2020
+  authors: Kong X, Xu W, Chen N, <b>Li Y</b>, Shen Y, Wu X
+  pdf: /pdf/Virology1.pdf
+  image: /images/virology.png
+  highlights:
+    - <i>Bm14</i> is a viral factor behind BmNPV-induced cytopathic effects.
+    - Deleting <i>Bm14</i> activates oxidative phosphorylation and lowers ROS levels.
+
+- title: Identification of a functional region in Bombyx mori nucleopolyhedrovirus VP39 that is essential for nuclear actin polymerization
+  venue: Virology
+  year: 2020
+  authors: Zhang J, <b>Li Y</b>, Zhao S, Wu X
+  pdf: /pdf/Virology2.pdf
+  image: /images/virology2.png
+  highlights:
+    - Deleting <i>vp39</i> abolishes nuclear actin polymerization; repairing it restores polymerization.
+    - Residues 192–286 in the C-terminal region of VP39 are essential for this function.
+
+- title: Dynamic chromatin accessibility profiling reveals changes in host genome organization in response to baculovirus infection
+  venue: PLOS Pathogens
+  year: 2020
+  authors: Kong X, Wei G, Chen N, Zhao S, Shen Y, Zhang J, <b>Li Y</b>, Zeng X, Wu X
+  pdf: /pdf/Plos.pdf
+  image: /images/Plos.png
+  highlights:
+    - BmNPV infection progressively opens host chromatin and pushes the host genome to the nuclear periphery.
+    - Infection-induced accessible regions carry facultative heterochromatin marks.

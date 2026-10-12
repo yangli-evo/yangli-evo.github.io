@@ -1,0 +1,42 @@
+name: Yang Li
+role: Postdoctoral Fellow
+department: Department of Ecology and Evolutionary Biology
+institution: University of Michigan
+location: Ann Arbor, Michigan, USA
+photo: /images/portrait.png
+email: yangli.evo@gmail.com
+
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?hl=en&user=npqv4VIAAAAJ
+  - label: ORCID
+    url: https://orcid.org/0000-0003-2530-7167
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/yangli-evo/
+  - label: X / Twitter
+    url: https://x.com/PhyloAlex
+  - label: UMich Profile
+    url: https://prod.lsa.umich.edu/eeb/people/postdoctoral-fellows/yang-li.html
+
+bio: >-
+  I am a Postdoctoral Fellow at the University of Michigan, working with
+  [Prof. Jianzhi Zhang](https://websites.umich.edu/~zhanglab/Research.html).
+  I use computational biology to study the mechanisms and processes that shape
+  biological evolution. I am always happy to discuss collaborations, so feel free
+  to get in touch.
+
+interests:
+  - title: Genome Evolution & Phylogenetics
+    text: >-
+      Large-scale genomic data to resolve relationships among species and to
+      understand how genome rearrangements and duplications drive diversity and
+      adaptation.
+  - title: Fitness Landscapes
+    text: >-
+      Landscape navigability, accessibility of high peaks, epistasis, and the
+      adaptive walks that determine evolutionary trajectories.
+  - title: Horizontal Gene Transfer
+    text: >-
+      How foreign genes enter, integrate, and adapt within host genomes, and how
+      these transfers reshape genomic diversity and the tree of life.
+    link: /pdf/Cell2022.pdf

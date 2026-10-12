@@ -1,0 +1,22 @@
+title: Yang Li
+description: Postdoctoral Fellow at the University of Michigan studying genome evolution, fitness landscapes, and horizontal gene transfer.
+url: https://yangli-evo.github.io
+baseurl: ""
+lang: en
+timezone: America/Detroit
+
+google_analytics: G-723S46SE08
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - vendor
